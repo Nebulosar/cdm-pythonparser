@@ -1,6 +1,0 @@
-include cdmpyparserversion.py
-include README.md
-include LICENSE
-include ChangeLog
-include tests/*.py
-include tests/*.ok

@@ -1,2 +1,2 @@
-print( "blah" )
-print( "blah", file = sys.stderr )
+print "blah"
+print >> sys.stderr, "blah"
